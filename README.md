@@ -20,6 +20,6 @@ Para mas informacion puedes escribir en nuestro [grupo de Telelegram](https://t.
 
 ## Lecturas Recomendadas
 
-- [La Catedral y el Bazar:](https://biblioweb.sindominio.net/telematica/catedral.html) es un ensayo sobre el software de código abierto. El ensayo analiza dos modelos de producción de software bien diferenciados. 
-* La catedral: que representa el modelo de desarrollo más hermético y vertical característico del Software propietario.
-* El bazar: con su dinámica horizontal y "bulliciosa", que caracterizó al desarrollo del kernel Linux.
+- [La Catedral y el Bazar.](https://biblioweb.sindominio.net/telematica/catedral.html) es un ensayo sobre el software de código abierto. El ensayo analiza dos modelos de producción de software bien diferenciados. La catedral, que representa el modelo de desarrollo más hermético y vertical característico del Software propietario. El bazar, con su dinámica horizontal y "bulliciosa", que caracterizó al desarrollo del kernel Linux.
+
+- [Buenas prácticas en Git y Github.](https://platzi.com/blog/buenas-practicas-git-y-github/)
